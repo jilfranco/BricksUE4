@@ -76,3 +76,6 @@ DerivedDataCache/*
 
 # folder created by substance
 *.autosave
+
+# fucking starter content
+StarterContent/
